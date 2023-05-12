@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1683891785 source:/home/alunos/Desktop/atv01_bim02_juliodiniz/Funcoes.cpp
+	"Funcoes.h"
+
+1683891779 /home/alunos/Desktop/atv01_bim02_juliodiniz/Funcoes.h
+	<iostream>
+
+1683891729 source:/home/alunos/Desktop/atv01_bim02_juliodiniz/main.cpp
+	"Funcoes.h"
+
+1683891785 source:/home/alunos/Downloads/atv01_bim02_juliodiniz/Funcoes.cpp
+	"Funcoes.h"
+
+1683891779 /home/alunos/Downloads/atv01_bim02_juliodiniz/Funcoes.h
+	<iostream>
+
+1683896824 source:/home/alunos/Downloads/atv01_bim02_juliodiniz/main.cpp
+	"Funcoes.h"
+
